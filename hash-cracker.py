@@ -1,5 +1,7 @@
 import hashlib
 
+#coded by g0dmax55 
+
 count = 0
 
 hashed = ("bed4efa1d4fdbd954bd3705d6a2a78270ec9a52ecfbfb010c61862af5c76af1761ffeb1aef6aca1bf5d02b3781aa854fabd2b69c790de74e17ecfec3cb6ac4bf")
