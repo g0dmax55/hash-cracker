@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import hashlib
 
 #coded by g0dmax55 
